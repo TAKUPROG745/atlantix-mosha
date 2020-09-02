@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*reset.css*/
+
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
